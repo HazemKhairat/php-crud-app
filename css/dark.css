@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    background-color: #444;
+    color: white;
+}
+.form-control{
+background-color: black;
+color: white;    
+}
+.form-control::placeholder{
+    color: white;
+
+}
+.form-control:focus{
+    color: white;
+    background-color: #222;
+
+
+}
+
+.form-group {
+    margin: 10px 0px;
+}
+
+.form-control {
+    margin: 10px 0px;
+}
+ 
+
+table , tr , td  , th{ 
+    color: white !important;
+    background-color: black !important;
+}
